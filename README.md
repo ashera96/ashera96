@@ -1,4 +1,6 @@
-### Hi there 👋
+[![An image of @ashera's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ashera)](https://holopin.io/@ashera)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashera96&theme=tokyonight_duo&exclude_days=Sat,Sun&card_width=1000&fire=fa6607)]()
 
 <!--
 **ashera96/ashera96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
